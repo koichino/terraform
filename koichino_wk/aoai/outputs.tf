@@ -1,0 +1,1 @@
+output "openai_account_id" { value = azurerm_cognitive_account.example.id }
